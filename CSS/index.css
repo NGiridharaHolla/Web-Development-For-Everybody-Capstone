@@ -211,6 +211,7 @@ nav ul li a{
 
 .about-sec1 img{
 	display: none;
+	border: 5px solid #326ba8;
 }
 
 #about-intro1{
