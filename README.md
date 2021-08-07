@@ -1,2 +1,2 @@
-# Portfolio (web development for everybody capstone).
-Portfolio built using HTML5 and CSS3
+# Web Development for Everybody Capstone.
+Portfolio webpage built using HTML5 and CSS3
